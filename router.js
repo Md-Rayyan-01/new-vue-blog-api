@@ -1,4 +1,3 @@
-// src/router.js
 import { createRouter, createWebHistory } from 'vue-router';
 import BlogFeed from './components/Blog.vue'; 
 import CreatePost from './components/CreatePost.vue';
